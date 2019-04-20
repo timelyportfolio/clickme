@@ -1,4 +1,4 @@
-** deprecated and archived - see `htmlwidgets` **
+**deprecated and archived - see `htmlwidgets`**
 
 # clickme
 
