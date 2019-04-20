@@ -1,3 +1,5 @@
+** deprecated and archived - see `htmlwidgets` **
+
 # clickme
 
 **clickme** is an R package that makes JavaScript visualizations using R data objects as input. Its goal is to make interactive visualizations as easy to use as the base `plot` function.
